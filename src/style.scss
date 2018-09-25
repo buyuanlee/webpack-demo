@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: #363636;
+  color: #fff;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.box {
+  width: 400px;
+  height: 200px;
+  background: orange;
+  text-align: center;
+  vertical-align: middle;
+  margin: 20px;
+}
+
+.bigger {
+  width: 800px;
+  height: 400px;
+}
